@@ -84,4 +84,4 @@ The project includes dedicated domain components, game-flow logic, hand evaluati
 
 ---
 
-📫 **Contact:** [Th3zg@proton.me]
+📫 **Contact:** Th3zg@proton.me
